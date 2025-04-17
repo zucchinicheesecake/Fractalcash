@@ -1,7 +1,16 @@
-from src.utils.config import load_config
-from src.fractalhash.fractalhash import FractalHash
+from flask import Flask, render_template
+import os
 
-if __name__ == '__main__':
-    config = load_config()
-    fh = FractalHash()
-    print('FractalHash ready:', fh)
+app = Flask(__name__)
+
+@app.route("/")
+def dashboard():
+    return render_template("dashboard.html", 
+                          address="0x5df3d175dfedc08bfd0fb93912f9162926fb2e1",
+                          balance=60,
+                          tx_count=3,
+                          node_status="Idle")
+
+if __name__ == "__main__":
+    port = int(os.getenv("PORT", 5000))
+    app.run(host="0.0.0.0", port=port, debug=False)
