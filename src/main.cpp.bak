@@ -1,0 +1,92 @@
+#include <fstream>        // For file operations
+#include <string>         // For std::string
+#include <vector>         // For std::vector
+#include <sstream>        // For std::stringstream
+#include <iomanip>        // For std::hex, std::setw, std::setfill
+#include <openssl/pem.h>  // For PEM_read_PUBKEY
+#include <openssl/evp.h>  // For EVP_PKEY related functions
+#include <openssl/ec.h>   // For EC key functions
+#include <openssl/err.h>  // For error reporting
+#include <iostream>       // Make sure iostream is included
+
+// Trying EVP_PKEY_get1_EC_KEY approach for displayBalance
+void displayBalance() {
+    std::cout << "--- Balance Check ---" << std::endl;
+
+    const std::string pubKeyPath = "/home/amy/fractalcash/data/wallets/miner.pub";
+    std::string minerAddressHex = "UNKNOWN"; // Default value
+
+    // --- 1. Load Public Key from PEM file ---
+    EVP_PKEY *pkey = nullptr;
+    FILE *fp = fopen(pubKeyPath.c_str(), "r");
+
+    if (!fp) {
+        std::cerr << "ERROR: Could not open public key file: " << pubKeyPath << std::endl;
+    } else {
+        pkey = PEM_read_PUBKEY(fp, NULL, NULL, NULL);
+        fclose(fp);
+
+        if (!pkey) {
+            std::cerr << "ERROR: Could not read public key from PEM file." << std::endl;
+            ERR_print_errors_fp(stderr);
+        } else {
+             std::cout << "Successfully loaded public key from: " << pubKeyPath << std::endl;
+
+             // --- 2. Get EC_KEY specific structure (using get1) ---
+             // EVP_PKEY_get1_EC_KEY returns a *new* structure that must be freed
+             EC_KEY *ec_key = EVP_PKEY_get1_EC_KEY(pkey);
+             if (!ec_key) {
+                 std::cerr << "ERROR: Could not get EC_KEY structure from EVP_PKEY (using get1)." << std::endl;
+             } else {
+                 std::cout << "Attempting to use EC_KEY functions..." << std::endl;
+                 // --- Use deprecated getters ---
+                 const EC_POINT *pub_point = EC_KEY_get_public_key(ec_key); // Still likely undeclared/deprecated
+                 const EC_GROUP *ec_group = EC_KEY_get_group(ec_key);       // Still likely undeclared/deprecated
+
+                 if (!pub_point || !ec_group) {
+                     std::cerr << "ERROR: Could not get EC_POINT or EC_GROUP from EC_KEY." << std::endl;
+                     ERR_print_errors_fp(stderr); // Print errors if getters fail
+                 } else {
+                     // --- 3. Determine buffer size for uncompressed point ---
+                     size_t buf_len = EC_POINT_point2oct(ec_group, pub_point, POINT_CONVERSION_UNCOMPRESSED, NULL, 0, NULL);
+
+                     if (buf_len == 0) {
+                         std::cerr << "ERROR: Could not get buffer length for EC_POINT conversion." << std::endl;
+                         ERR_print_errors_fp(stderr);
+                     } else {
+                         std::cout << "Buffer size for uncompressed EC point: " << buf_len << " bytes" << std::endl;
+
+                         // --- 4. Allocate Buffer & Convert Point to Bytes ---
+                         std::vector<unsigned char> pub_key_buf(buf_len);
+                         size_t written_len = EC_POINT_point2oct(ec_group, pub_point, POINT_CONVERSION_UNCOMPRESSED, pub_key_buf.data(), buf_len, NULL);
+
+                         if (written_len != buf_len) {
+                             std::cerr << "ERROR: Failed to convert EC_POINT to octet string. Length mismatch." << std::endl;
+                             ERR_print_errors_fp(stderr);
+                         } else {
+                             std::cout << "Successfully retrieved EC public key bytes (" << written_len << " bytes)." << std::endl;
+
+                             // --- 5. Convert Raw Bytes to Hex String ---
+                             std::stringstream ss;
+                             ss << std::hex << std::setfill('0');
+                             for (unsigned char byte : pub_key_buf) {
+                                 ss << std::setw(2) << static_cast<int>(byte);
+                             }
+                             minerAddressHex = ss.str();
+                             std::cout << "Miner Public Key Hex (Address Identifier): " << minerAddressHex << std::endl;
+                         }
+                     }
+                 }
+                 EC_KEY_free(ec_key); // Free the EC_KEY structure obtained from get1
+             }
+             EVP_PKEY_free(pkey); // Free the EVP_PKEY structure
+        }
+    }
+
+    // --- Blockchain Scanning & Balance Calculation (To be added next) ---
+    std::cout << "\nBlockchain scanning and balance calculation not yet implemented." << std::endl;
+    uint64_t currentBalance = 0; // Placeholder
+
+    std::cout << "\nCalculated Balance for " << minerAddressHex << ": " << currentBalance << " FRC" << std::endl;
+    std::cout << "--- Balance Check Complete ---" << std::endl;
+}

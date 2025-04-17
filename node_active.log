@@ -1,0 +1,630 @@
+nohup: ignoring input
+nohup: ignoring input
+nohup: ignoring input
+python3: can't open file '/home/amy/fractalcash/src/node.py': [Errno 2] No such file or directory
+python3: can't open file '/home/amy/fractalcash/src/node.py': [Errno 2] No such file or directory
+python3: can't open file '/home/amy/fractalcash/src/node.py': [Errno 2] No such file or directory
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "balance": 0, "tx_count": 3, "timestamp": 1744893040}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "balance": 0, "tx_count": 3, "timestamp": 1744893040}
+{"event": "error", "message": "Comparing receiver: 0x5df3d175dfedc08bfd0fb93912f91662926fb2e1 with wallet: 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744893894}
+{"event": "error", "message": "Comparing sender: 0x0 with wallet: 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744893894}
+{"event": "error", "message": "Comparing receiver: 0x5678 with wallet: 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744893894}
+{"event": "error", "message": "Comparing sender: 0x5df3d175dfedc08bfd0fb93912f91662926fb2e1 with wallet: 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744893894}
+{"event": "error", "message": "Comparing receiver: 0x5df3d175dfedc08bfd0fb93912f91662926fb2e1 with wallet: 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744893894}
+{"event": "error", "message": "Comparing sender: 0x0 with wallet: 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744893894}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "balance": 0, "tx_count": 3, "timestamp": 1744893894}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744893894}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744893894}
+{"event": "error", "message": "Comparing receiver: 0x5df3d175dfedc08bfd0fb93912f91662926fb2e1 with wallet: 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744893894}
+{"event": "error", "message": "Comparing sender: 0x0 with wallet: 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744893894}
+{"event": "error", "message": "Comparing receiver: 0x5678 with wallet: 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744893894}
+{"event": "error", "message": "Comparing sender: 0x5df3d175dfedc08bfd0fb93912f91662926fb2e1 with wallet: 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744893894}
+{"event": "error", "message": "Comparing receiver: 0x5df3d175dfedc08bfd0fb93912f91662926fb2e1 with wallet: 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744893894}
+{"event": "error", "message": "Comparing sender: 0x0 with wallet: 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744893894}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "balance": 0, "tx_count": 3, "timestamp": 1744893894}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744893894}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744893894}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744894893}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1' with wallet: '0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1'", "timestamp": 1744894893}
+{"event": "error", "message": "Comparing sender: '0x0' with wallet: '0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1'", "timestamp": 1744894893}
+{"event": "error", "message": "No match for receiver: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 != 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744894893}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744894893}
+{"event": "error", "message": "Balance after transaction: 0", "timestamp": 1744894893}
+{"event": "error", "message": "Comparing receiver: '0x5678' with wallet: '0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1'", "timestamp": 1744894893}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1' with wallet: '0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1'", "timestamp": 1744894893}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744894893}
+{"event": "error", "message": "No match for sender: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 != 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744894893}
+{"event": "error", "message": "Balance after transaction: 0", "timestamp": 1744894893}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1' with wallet: '0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1'", "timestamp": 1744894893}
+{"event": "error", "message": "Comparing sender: '0x0' with wallet: '0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1'", "timestamp": 1744894893}
+{"event": "error", "message": "No match for receiver: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 != 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744894893}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744894893}
+{"event": "error", "message": "Balance after transaction: 0", "timestamp": 1744894893}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "balance": 0, "tx_count": 3, "timestamp": 1744894893}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744894893}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744894893}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744894893}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1' with wallet: '0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1'", "timestamp": 1744894893}
+{"event": "error", "message": "Comparing sender: '0x0' with wallet: '0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1'", "timestamp": 1744894893}
+{"event": "error", "message": "No match for receiver: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 != 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744894893}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744894893}
+{"event": "error", "message": "Balance after transaction: 0", "timestamp": 1744894893}
+{"event": "error", "message": "Comparing receiver: '0x5678' with wallet: '0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1'", "timestamp": 1744894893}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1' with wallet: '0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1'", "timestamp": 1744894893}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744894893}
+{"event": "error", "message": "No match for sender: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 != 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744894893}
+{"event": "error", "message": "Balance after transaction: 0", "timestamp": 1744894893}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1' with wallet: '0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1'", "timestamp": 1744894893}
+{"event": "error", "message": "Comparing sender: '0x0' with wallet: '0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1'", "timestamp": 1744894893}
+{"event": "error", "message": "No match for receiver: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 != 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744894893}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "timestamp": 1744894893}
+{"event": "error", "message": "Balance after transaction: 0", "timestamp": 1744894893}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f91f62926fb2e1", "balance": 0, "tx_count": 3, "timestamp": 1744894893}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744894893}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744894893}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895274}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1' with wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1'", "timestamp": 1744895274}
+{"event": "error", "message": "Comparing sender: '0x0' with wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1'", "timestamp": 1744895274}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895274}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895274}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744895274}
+{"event": "error", "message": "Comparing receiver: '0x5678' with wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1'", "timestamp": 1744895274}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1' with wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1'", "timestamp": 1744895274}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895274}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744895274}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744895274}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1' with wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1'", "timestamp": 1744895274}
+{"event": "error", "message": "Comparing sender: '0x0' with wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1'", "timestamp": 1744895274}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895274}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895274}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744895274}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744895274}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744895274}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744895274}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895274}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1' with wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1'", "timestamp": 1744895274}
+{"event": "error", "message": "Comparing sender: '0x0' with wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1'", "timestamp": 1744895274}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895274}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895274}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744895274}
+{"event": "error", "message": "Comparing receiver: '0x5678' with wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1'", "timestamp": 1744895274}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1' with wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1'", "timestamp": 1744895274}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895274}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744895274}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744895274}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1' with wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1'", "timestamp": 1744895274}
+{"event": "error", "message": "Comparing sender: '0x0' with wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1'", "timestamp": 1744895274}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895274}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895274}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744895274}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744895274}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744895274}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744895274}
+{"event": "error", "message": "Raw wallet address: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895396}
+{"event": "error", "message": "ASCII values of wallet address: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895396}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895396}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895396}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895396}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744895396}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744895396}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895396}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing receiver: '0x5678', length: 6", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895396}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 54, 55, 56]", "timestamp": 1744895396}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895396}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895396}
+{"event": "error", "message": "Sender ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895396}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744895396}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895396}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895396}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895396}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744895396}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744895396}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895396}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744895396}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744895396}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744895396}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744895396}
+{"event": "error", "message": "Raw wallet address: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895396}
+{"event": "error", "message": "ASCII values of wallet address: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895396}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895396}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895396}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895396}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744895396}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744895396}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895396}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing receiver: '0x5678', length: 6", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895396}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 54, 55, 56]", "timestamp": 1744895396}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895396}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895396}
+{"event": "error", "message": "Sender ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895396}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744895396}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895396}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895396}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895396}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895396}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744895396}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744895396}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895396}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744895396}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744895396}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744895396}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744895396}
+{"event": "error", "message": "Raw wallet address: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895726}
+{"event": "error", "message": "ASCII values of wallet address: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895726}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895726}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895726}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895726}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744895726}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744895726}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895726}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing receiver: '0x5678', length: 6", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895726}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 54, 55, 56]", "timestamp": 1744895726}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895726}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895726}
+{"event": "error", "message": "Sender ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895726}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744895726}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895726}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895726}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895726}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744895726}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744895726}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895726}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744895726}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744895726}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744895726}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744895726}
+{"event": "error", "message": "Raw wallet address: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895726}
+{"event": "error", "message": "ASCII values of wallet address: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895726}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895726}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895726}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895726}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744895726}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744895726}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895726}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing receiver: '0x5678', length: 6", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895726}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 54, 55, 56]", "timestamp": 1744895726}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895726}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895726}
+{"event": "error", "message": "Sender ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895726}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744895726}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744895726}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895726}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744895726}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895726}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744895726}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744895726}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744895726}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744895726}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744895726}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744895726}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744895726}
+{"event": "error", "message": "Raw wallet address: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896599}
+{"event": "error", "message": "ASCII values of wallet address: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896599}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896599}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896599}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896599}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896599}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896599}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896599}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744896599}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744896599}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896599}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744896599}
+{"event": "error", "message": "Comparing receiver: '0x5678', length: 6", "timestamp": 1744896599}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896599}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 54, 55, 56]", "timestamp": 1744896599}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896599}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896599}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896599}
+{"event": "error", "message": "Sender ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896599}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744896599}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744896599}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896599}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896599}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896599}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896599}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896599}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744896599}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744896599}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896599}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744896599}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744896599}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744896599}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744896599}
+{"event": "error", "message": "Raw wallet address: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896600}
+{"event": "error", "message": "ASCII values of wallet address: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896600}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896600}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896600}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896600}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896600}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896600}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896600}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744896600}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744896600}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896600}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744896600}
+{"event": "error", "message": "Comparing receiver: '0x5678', length: 6", "timestamp": 1744896600}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896600}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 54, 55, 56]", "timestamp": 1744896600}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896600}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896600}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896600}
+{"event": "error", "message": "Sender ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896600}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744896600}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744896600}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896600}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896600}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896600}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896600}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896600}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744896600}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744896600}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896600}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744896600}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744896600}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744896600}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744896600}
+{"event": "error", "message": "Raw wallet address: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896913}
+{"event": "error", "message": "ASCII values of wallet address: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896913}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896913}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896913}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896913}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744896913}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744896913}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896913}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing receiver: '0x5678', length: 6", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896913}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 54, 55, 56]", "timestamp": 1744896913}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896913}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896913}
+{"event": "error", "message": "Sender ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896913}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744896913}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896913}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896913}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896913}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744896913}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744896913}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896913}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744896913}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744896913}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744896913}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744896913}
+{"event": "error", "message": "Raw wallet address: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896913}
+{"event": "error", "message": "ASCII values of wallet address: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896913}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896913}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896913}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896913}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744896913}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744896913}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896913}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing receiver: '0x5678', length: 6", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896913}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 54, 55, 56]", "timestamp": 1744896913}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896913}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896913}
+{"event": "error", "message": "Sender ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896913}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744896913}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744896913}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896913}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744896913}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896913}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744896913}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744896913}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744896913}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744896913}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744896913}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744896913}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744896913}
+{"event": "error", "message": "Raw wallet address: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744897351}
+{"event": "error", "message": "ASCII values of wallet address: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744897351}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744897351}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744897351}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744897351}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744897351}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744897351}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744897351}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing receiver: '0x5678', length: 6", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744897351}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 54, 55, 56]", "timestamp": 1744897351}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744897351}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744897351}
+{"event": "error", "message": "Sender ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744897351}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744897351}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744897351}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744897351}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744897351}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744897351}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744897351}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744897351}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744897351}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744897351}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744897351}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744897351}
+{"event": "error", "message": "Raw wallet address: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744897351}
+{"event": "error", "message": "ASCII values of wallet address: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744897351}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744897351}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744897351}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744897351}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744897351}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744897351}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744897351}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing receiver: '0x5678', length: 6", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744897351}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 54, 55, 56]", "timestamp": 1744897351}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744897351}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744897351}
+{"event": "error", "message": "Sender ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744897351}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744897351}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744897351}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744897351}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744897351}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744897351}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744897351}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744897351}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744897351}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744897351}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744897351}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744897351}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744897351}
+{"event": "error", "message": "Raw wallet address: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899510}
+{"event": "error", "message": "ASCII values of wallet address: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899510}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899510}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899510}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899510}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744899510}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744899510}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899510}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing receiver: '0x5678', length: 6", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899510}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 54, 55, 56]", "timestamp": 1744899510}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899510}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899510}
+{"event": "error", "message": "Sender ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899510}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744899510}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899510}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899510}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899510}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744899510}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744899510}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899510}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744899510}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744899510}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744899510}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744899510}
+{"event": "error", "message": "Raw wallet address: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899510}
+{"event": "error", "message": "ASCII values of wallet address: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899510}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899510}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899510}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899510}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744899510}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744899510}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899510}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing receiver: '0x5678', length: 6", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899510}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 54, 55, 56]", "timestamp": 1744899510}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899510}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899510}
+{"event": "error", "message": "Sender ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899510}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744899510}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899510}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899510}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899510}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899510}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744899510}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744899510}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899510}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744899510}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744899510}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744899510}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744899510}
+{"event": "error", "message": "Raw wallet address: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899872}
+{"event": "error", "message": "ASCII values of wallet address: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899872}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899872}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899872}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899872}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744899872}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744899872}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899872}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing receiver: '0x5678', length: 6", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899872}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 54, 55, 56]", "timestamp": 1744899872}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899872}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899872}
+{"event": "error", "message": "Sender ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899872}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744899872}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899872}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899872}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899872}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744899872}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744899872}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899872}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744899872}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744899872}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744899872}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744899872}
+{"event": "error", "message": "Raw wallet address: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899872}
+{"event": "error", "message": "ASCII values of wallet address: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899872}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899872}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899872}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899872}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744899872}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744899872}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899872}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing receiver: '0x5678', length: 6", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899872}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 54, 55, 56]", "timestamp": 1744899872}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899872}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899872}
+{"event": "error", "message": "Sender ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899872}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744899872}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744899872}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899872}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744899872}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899872}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744899872}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744899872}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744899872}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744899872}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744899872}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744899872}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744899872}
+{"event": "error", "message": "Raw wallet address: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744900664}
+{"event": "error", "message": "ASCII values of wallet address: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744900664}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744900664}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744900664}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744900664}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744900664}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744900664}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744900664}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing receiver: '0x5678', length: 6", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744900664}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 54, 55, 56]", "timestamp": 1744900664}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744900664}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744900664}
+{"event": "error", "message": "Sender ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744900664}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744900664}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744900664}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744900664}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744900664}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744900664}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744900664}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744900664}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744900664}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744900664}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744900664}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744900664}
+{"event": "error", "message": "Raw wallet address: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744900664}
+{"event": "error", "message": "ASCII values of wallet address: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744900664}
+{"event": "error", "message": "Loaded wallet address: 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744900664}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744900664}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744900664}
+{"event": "error", "message": "Receiving 50 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744900664}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744900664}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744900664}
+{"event": "error", "message": "Balance after transaction: 50", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing receiver: '0x5678', length: 6", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744900664}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 54, 55, 56]", "timestamp": 1744900664}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744900664}
+{"event": "error", "message": "No match for receiver: 0x5678 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing sender: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744900664}
+{"event": "error", "message": "Sender ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744900664}
+{"event": "error", "message": "Sending 20 FRAC from 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1 to 0x5678", "timestamp": 1744900664}
+{"event": "error", "message": "Balance after transaction: 30", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing receiver: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing wallet: '0x5df3d175dfedc08bfd0fb93912f9162926fb2e1', length: 41", "timestamp": 1744900664}
+{"event": "error", "message": "Receiver ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744900664}
+{"event": "error", "message": "Wallet ASCII: [48, 120, 53, 100, 102, 51, 100, 49, 55, 53, 100, 102, 101, 100, 99, 48, 56, 98, 102, 100, 48, 102, 98, 57, 51, 57, 49, 50, 102, 57, 49, 54, 50, 57, 50, 54, 102, 98, 50, 101, 49]", "timestamp": 1744900664}
+{"event": "error", "message": "Receiving 30 FRAC from 0x0 to 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744900664}
+{"event": "error", "message": "Comparing sender: '0x0', length: 3", "timestamp": 1744900664}
+{"event": "error", "message": "Sender ASCII: [48, 120, 48]", "timestamp": 1744900664}
+{"event": "error", "message": "No match for sender: 0x0 != 0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "timestamp": 1744900664}
+{"event": "error", "message": "Balance after transaction: 60", "timestamp": 1744900664}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744900664}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744900664}
+{"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744900664}

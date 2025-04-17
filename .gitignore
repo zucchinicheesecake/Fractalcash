@@ -1,26 +1,14 @@
-# Python junk
 __pycache__/
 *.pyc
-
-# Build artifacts
-build/
-fractalcash  # compiled binary
-
-# Virtual environment
+*.pyo
+*.pyd
 fractal_env/
-
-# Logs and temp files
-*.log
+*.egg-info/
+logs/*
 nohup.out
-diagnostics_report.txt
-
-# Data (wallets, chain data, etc.)
-data/
-
-# Backup or template files
-*.bak
-transaction_template.json
-
-# IDE/editor configs (optional)
-.vscode/
-*.swp
+build/
+*.o
+*.so
+*.tar.gz
+# Temp
+*.tmp

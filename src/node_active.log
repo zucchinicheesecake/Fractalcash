@@ -1,0 +1,11 @@
+{"event": "wallet_sync", "address": "0x4a586ade0d18e8d42bec5d4dd1d1abc75762587b", "balance": 0, "tx_count": 0, "timestamp": 1744890624}
+{"event": "error", "message": "Invalid block data: {'transactions': [{'sender': '0x0', 'receiver': '0x1234', 'amount': 50}, {'sender': '0x1234', 'receiver': '0x5678', 'amount': 20}]}", "timestamp": 1744891246}
+{"event": "error", "message": "Invalid block data: {'transactions': [{'sender': '0x0', 'receiver': '0x1234', 'amount': 30}]}", "timestamp": 1744891246}
+{"event": "wallet_sync", "address": "0x4a586ade0d18e8d42bec5d4dd1d1abc75762587b", "balance": 0, "tx_count": 0, "timestamp": 1744891246}
+{"event": "error", "message": "Invalid block data: {'transactions': [{'sender': '0x0', 'receiver': '0x1234', 'amount': 50}, {'sender': '0x1234', 'receiver': '0x5678', 'amount': 20}]}", "timestamp": 1744891246}
+{"event": "error", "message": "Invalid block data: {'transactions': [{'sender': '0x0', 'receiver': '0x1234', 'amount': 30}]}", "timestamp": 1744891246}
+{"event": "wallet_sync", "address": "0x4a586ade0d18e8d42bec5d4dd1d1abc75762587b", "balance": 0, "tx_count": 0, "timestamp": 1744891246}
+{"event": "wallet_sync", "address": "0x4a586ade0d18e8d42bec5d4dd1d1abc75762587b", "balance": 0, "tx_count": 3, "timestamp": 1744891988}
+{"event": "wallet_sync", "address": "0x4a586ade0d18e8d42bec5d4dd1d1abc75762587b", "balance": 0, "tx_count": 3, "timestamp": 1744891988}
+{"event": "wallet_sync", "address": "0x4a586ade0d18e8d42bec5d4dd1d1abc75762587b", "balance": 0, "tx_count": 3, "timestamp": 1744892557}
+{"event": "wallet_sync", "address": "0x4a586ade0d18e8d42bec5d4dd1d1abc75762587b", "balance": 0, "tx_count": 3, "timestamp": 1744892557}

@@ -1,0 +1,144 @@
+=== SYSTEM DIAGNOSTICS REPORT ===
+
+>> OS Information:
+Linux amy-HP-15-Notebook-PC 6.8.0-55-generic #57-Ubuntu SMP PREEMPT_DYNAMIC Wed Feb 12 23:42:21 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+
+>> Kernel Version:
+6.8.0-55-generic
+
+>> CPU Architecture:
+x86_64
+
+>> CPU Details:
+Architecture:                         x86_64
+CPU op-mode(s):                       32-bit, 64-bit
+Address sizes:                        40 bits physical, 48 bits virtual
+Byte Order:                           Little Endian
+CPU(s):                               4
+On-line CPU(s) list:                  0-3
+Vendor ID:                            AuthenticAMD
+Model name:                           AMD A6-6310 APU with AMD Radeon R4 Graphics
+CPU family:                           22
+Model:                                48
+Thread(s) per core:                   1
+Core(s) per socket:                   4
+Socket(s):                            1
+Stepping:                             1
+Frequency boost:                      enabled
+CPU(s) scaling MHz:                   124%
+CPU max MHz:                          1800.0000
+CPU min MHz:                          1000.0000
+BogoMIPS:                             3593.28
+Flags:                                fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good acc_power nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c lahf_lm cmp_legacy extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt topoext perfctr_nb bpext ptsc perfctr_llc cpb hw_pstate ssbd ibpb vmmcall bmi1 xsaveopt arat npt lbrv svm_lock nrip_save tsc_scale flushbyasid decodeassists pausefilter pfthreshold overflow_recov
+L1d cache:                            128 KiB (4 instances)
+L1i cache:                            128 KiB (4 instances)
+L2 cache:                             2 MiB (1 instance)
+NUMA node(s):                         1
+NUMA node0 CPU(s):                    0-3
+Vulnerability Gather data sampling:   Not affected
+Vulnerability Itlb multihit:          Not affected
+Vulnerability L1tf:                   Not affected
+Vulnerability Mds:                    Not affected
+Vulnerability Meltdown:               Not affected
+Vulnerability Mmio stale data:        Not affected
+Vulnerability Reg file data sampling: Not affected
+Vulnerability Retbleed:               Mitigation; untrained return thunk; SMT disabled
+Vulnerability Spec rstack overflow:   Not affected
+Vulnerability Spec store bypass:      Mitigation; Speculative Store Bypass disabled via prctl
+Vulnerability Spectre v1:             Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:             Mitigation; Retpolines; IBPB conditional; STIBP disabled; RSB filling; PBRSB-eIBRS Not affected; BHI Not affected
+Vulnerability Srbds:                  Not affected
+Vulnerability Tsx async abort:        Not affected
+
+>> Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  5.3M  331M   2% /run
+efivarfs         84K   47K   33K  59% /sys/firmware/efi/efivars
+/dev/sda3       117G   56G   56G  50% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+/dev/sda2       512M  6.2M  506M   2% /boot/efi
+tmpfs           336M  3.8M  332M   2% /run/user/1000
+
+>> Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.1Gi       502Mi        11Mi       1.0Gi       1.2Gi
+Swap:          4.4Gi       2.1Gi       2.2Gi
+
+>> System Uptime:
+ 10:21:14 up 6 days, 11:48,  4 users,  load average: 1.10, 1.30, 1.34
+
+>> Top 10 Processes by CPU:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+amy      1425688  400  0.1  15044  5376 pts/0    R+   10:21   0:00 ps aux --sort=-%cpu
+amy      1425632  107  8.4 863996 291952 ?       Rsl  10:21   0:10 /usr/local/bin/python3.12 /home/ftuser/.local/bin/freqtrade trade --logfile /freqtrade/user_data/logs/freqtrade.log --db-url sqlite:////freqtrade/user_data/tradesv3.sqlite --config /freqtrade/user_data/config.json --strategy SampleStrategy
+root      377724  8.1  4.5 1145444 154724 pts/0  Sl+  Apr11 614:14 python ./bin/hummingbot_quickstart.py
+amy      1417244  2.4  0.2  14860  8184 pts/0    Ss   10:10   0:15 -zsh
+amy      3852700  2.2  5.1 3743368 175792 ?      Sl   Apr14  56:34 /usr/lib/firefox/firefox
+amy         2276  2.0  1.4 4975960 51124 ?       Sl   Apr09 194:44 cinnamon --replace
+amy      3959135  1.8  2.2 799884 76928 ?        Sl   Apr14  43:33 cinnamon-screensaver
+amy      3852861  1.4  0.8 2931144 27660 ?       Sl   Apr14  38:06 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0 -prefsLen 43544 -prefMapHandle 1 -prefMapSize 265146 -jsInitHandle 2 -jsInitLen 247456 -parentBuildID 20250227124745 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {71de7e95-e1dc-42c6-90b6-1a48880c610e} -parentPid 3852700 -crashReporter 6 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 4 tab
+amy         2137  1.4  1.8 461828 63352 ?        Sl   Apr09 131:43 /usr/bin/csd-background
+amy      3875028  1.3 13.9 3580332 480760 ?      Sl   Apr14  34:48 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0 -prefsLen 39118 -prefMapHandle 1 -prefMapSize 265146 -jsInitHandle 2 -jsInitLen 247456 -parentBuildID 20250227124745 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {b697f5a1-5ba4-4c5b-a181-5811f214e523} -parentPid 3852700 -crashReporter 6 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 38 tab
+
+>> Recent 20 Syslog Lines:
+2025-04-16T10:21:17.171388-04:00 amy-HP-15-Notebook-PC avahi-daemon[646]: Withdrawing address record for fe80::9ca8:ecff:fea3:de4b on vethc1e942f.
+2025-04-16T10:21:17.190351-04:00 amy-HP-15-Notebook-PC systemd[1]: run-docker-netns-a3364123e7f3.mount: Deactivated successfully.
+2025-04-16T10:21:17.198013-04:00 amy-HP-15-Notebook-PC systemd[1]: var-lib-docker-overlay2-41d53759a9be0381a9e08c1ad4672bebbf10cc1bd59d868647b18b24f86785f7-merged.mount: Deactivated successfully.
+2025-04-16T10:21:17.261715-04:00 amy-HP-15-Notebook-PC kernel: br-718331cb5623: port 1(vethe9e5679) entered blocking state
+2025-04-16T10:21:17.261756-04:00 amy-HP-15-Notebook-PC kernel: br-718331cb5623: port 1(vethe9e5679) entered disabled state
+2025-04-16T10:21:17.261759-04:00 amy-HP-15-Notebook-PC kernel: vethe9e5679: entered allmulticast mode
+2025-04-16T10:21:17.261761-04:00 amy-HP-15-Notebook-PC kernel: vethe9e5679: entered promiscuous mode
+2025-04-16T10:21:17.263154-04:00 amy-HP-15-Notebook-PC NetworkManager[688]: <info>  [1744813277.2628] manager: (veth738a24f): new Veth device (/org/freedesktop/NetworkManager/Devices/107981)
+2025-04-16T10:21:17.268290-04:00 amy-HP-15-Notebook-PC NetworkManager[688]: <info>  [1744813277.2674] manager: (vethe9e5679): new Veth device (/org/freedesktop/NetworkManager/Devices/107982)
+2025-04-16T10:21:17.424711-04:00 amy-HP-15-Notebook-PC containerd[974]: time="2025-04-16T10:21:17.424305728-04:00" level=info msg="loading plugin \"io.containerd.event.v1.publisher\"..." runtime=io.containerd.runc.v2 type=io.containerd.event.v1
+2025-04-16T10:21:17.425067-04:00 amy-HP-15-Notebook-PC containerd[974]: time="2025-04-16T10:21:17.424482073-04:00" level=info msg="loading plugin \"io.containerd.internal.v1.shutdown\"..." runtime=io.containerd.runc.v2 type=io.containerd.internal.v1
+2025-04-16T10:21:17.425169-04:00 amy-HP-15-Notebook-PC containerd[974]: time="2025-04-16T10:21:17.424523193-04:00" level=info msg="loading plugin \"io.containerd.ttrpc.v1.task\"..." runtime=io.containerd.runc.v2 type=io.containerd.ttrpc.v1
+2025-04-16T10:21:17.425288-04:00 amy-HP-15-Notebook-PC containerd[974]: time="2025-04-16T10:21:17.424756139-04:00" level=info msg="loading plugin \"io.containerd.ttrpc.v1.pause\"..." runtime=io.containerd.runc.v2 type=io.containerd.ttrpc.v1
+2025-04-16T10:21:17.463380-04:00 amy-HP-15-Notebook-PC systemd[1]: run-docker-runtime\x2drunc-moby-eafad7c196e203b7a2f2cc8d90dd659e6774f25519a384e71846d4cb5e4e8388-runc.GsTueF.mount: Deactivated successfully.
+2025-04-16T10:21:17.481713-04:00 amy-HP-15-Notebook-PC systemd[1]: Started docker-eafad7c196e203b7a2f2cc8d90dd659e6774f25519a384e71846d4cb5e4e8388.scope - libcontainer container eafad7c196e203b7a2f2cc8d90dd659e6774f25519a384e71846d4cb5e4e8388.
+2025-04-16T10:21:17.666125-04:00 amy-HP-15-Notebook-PC kernel: eth0: renamed from veth738a24f
+2025-04-16T10:21:17.679165-04:00 amy-HP-15-Notebook-PC kernel: br-718331cb5623: port 1(vethe9e5679) entered blocking state
+2025-04-16T10:21:17.679200-04:00 amy-HP-15-Notebook-PC kernel: br-718331cb5623: port 1(vethe9e5679) entered forwarding state
+2025-04-16T10:21:17.683447-04:00 amy-HP-15-Notebook-PC NetworkManager[688]: <info>  [1744813277.6824] device (vethe9e5679): carrier: link connected
+2025-04-16T10:21:17.684779-04:00 amy-HP-15-Notebook-PC NetworkManager[688]: <info>  [1744813277.6846] device (br-718331cb5623): carrier: link connected
+
+>> File System Tree (Depth 2) from Home:
+/home/amy
+├── Desktop
+├── diagnostics_report.txt
+├── ETH_Signal_Pro
+│   └── timescaledb_data
+├── fractalcash
+│   ├── #
+│   ├── build
+│   ├── CMakeLists.tx
+│   ├── CMakeLists.txt
+│   ├── config.json
+│   ├── data
+│   ├── diagnostics_report.txt
+│   ├── directory
+│   ├── Ensure
+│   ├── exists
+│   ├── fractalcash
+│   ├── fractal_env
+│   ├── include
+│   ├── llm_validator.py
+│   ├── node1.log
+│   ├── node2.log
+│   ├── node3.log
+│   ├── node_active.log
+│   ├── node.log
+│   ├── nohup.out
+│   ├── __pycache__
+│   ├── src
+│   ├── src_backup_20250416094720
+│   ├── tests
+│   ├── transaction_template.json
+│   └── whitepaper.txt
+└── freqtrade
+    └── user_data
+
+19 directories, 15 files
+
+=== END OF REPORT ===

@@ -1,0 +1,6 @@
+{
+  "from": "$(openssl ec -in data/wallets/miner.pem -passin pass:securepassword -pubout 2>/dev/null | tail -c 65 | xxd -p -c 65)",
+  "to": "0432...",
+  "amount": 5.0,
+  "signature": "$(echo -n "tx_data" | openssl dgst -sha256 -sign data/wallets/miner.pem -passin pass:securepassword | base64)"
+}

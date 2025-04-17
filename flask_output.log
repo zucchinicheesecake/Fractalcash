@@ -1,0 +1,11 @@
+ * Serving Flask app 'main'
+Mined: 0 FRAC
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.128:5000
+[33mPress CTRL+C to quit[0m
+Wallet Address: 
+0x5df3d175dfedc08bfd0fb93912f9162926fb2e1
+Balance: 60 FRAC

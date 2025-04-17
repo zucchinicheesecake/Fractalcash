@@ -1,0 +1,5 @@
+1744824769 886
+1744824892 5672
+1744825070 amy 1108 FractalHash block N
+1744825244 amy Halving test 5673
+1744825542 amy Difficulty scaling test 29

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FractalCash Dashboard</title>
+    <style>
+        body { background: #1a1a1a; color: #e0e0e0; font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        h1 { color: #ff69b4; }
+        .info { background: #333; padding: 10px; margin: 10px auto; width: 300px; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>FractalCash Dashboard</h1>
+    <div class="info">
+        <p><strong>Wallet Address:</strong> {{ address }}</p>
+        <p><strong>Balance:</strong> {{ balance }} FRAC</p>
+        <p><strong>Transactions:</strong> {{ tx_count }}</p>
+        <p><strong>Node Status:</strong> {{ node_status }}</p>
+    </div>
+</body>
+</html>

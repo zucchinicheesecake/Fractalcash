@@ -1,0 +1,3 @@
+/home/amy/fractalcash/build/CMakeFiles/FractalCash.dir
+/home/amy/fractalcash/build/CMakeFiles/edit_cache.dir
+/home/amy/fractalcash/build/CMakeFiles/rebuild_cache.dir

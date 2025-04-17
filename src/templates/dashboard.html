@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FractalCash Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #1a1a2e;
+            color: #e94560;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            overflow: hidden;
+        }
+        .container {
+            background: rgba(15, 52, 96, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(233, 69, 96, 0.5);
+            text-align: center;
+            max-width: 90%;
+            z-index: 1;
+        }
+        h1 {
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        p {
+            font-size: 1.2em;
+            margin: 10px 0;
+        }
+        canvas {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 0.3;
+            z-index: 0;
+        }
+        @media (max-width: 600px) {
+            h1 { font-size: 1.5em; }
+            p { font-size: 1em; }
+        }
+    </style>
+</head>
+<body>
+    <canvas id="fractalCanvas"></canvas>
+    <div class="container">
+        <h1>FractalCash Dashboard</h1>
+        <p><strong>Wallet Address:</strong> {{ address }}</p>
+        <p><strong>Balance:</strong> {{ balance }} FRAC</p>
+        <p><strong>Transactions:</strong> {{ tx_count }}</p>
+        <p><strong>Node Status:</strong> {{ node_status }}</p>
+    </div>
+    <script>
+        const canvas = document.getElementById('fractalCanvas');
+        const ctx = canvas.getContext('2d');
+        let width, height;
+
+        function resizeCanvas() {
+            width = window.innerWidth;
+            height = window.innerHeight;
+            canvas.width = width;
+            canvas.height = height;
+        }
+        resizeCanvas();
+        window.addEventListener('resize', resizeCanvas);
+
+        let time = 0;
+        let perturbation = { x: 0, y: 0 };
+
+        function simulatedQuantumPerturbation() {
+            perturbation.x += (Math.random() - 0.5) * 0.002;
+            perturbation.y += (Math.random() - 0.5) * 0.002;
+            perturbation.x = Math.max(Math.min(perturbation.x, 0.5), -0.5);
+            perturbation.y = Math.max(Math.min(perturbation.y, 0.5), -0.5);
+        }
+
+        function drawFractal() {
+            simulatedQuantumPerturbation();
+            time += 0.02;
+            const zoom = 1 + Math.sin(time * 0.1) * 0.5;
+            const offsetX = perturbation.x + Math.cos(time * 0.05) * 0.1;
+            const offsetY = perturbation.y + Math.sin(time * 0.07) * 0.1;
+            ctx.clearRect(0, 0, width, height);
+            for (let x = 0; x < width; x += 2) {
+                for (let y = 0; y < height; y += 2) {
+                    const c_re = (x / width * 4 - 2) / zoom + offsetX;
+                    const c_im = (y / height * 4 - 2) / zoom + offsetY;
+                    let z_re = 0, z_im = 0;
+                    let i;
+                    const maxIter = 50;
+                    for (i = 0; i < maxIter; i++) {
+                        const z_re2 = z_re * z_re;
+                        const z_im2 = z_im * z_im;
+                        if (z_re2 + z_im2 > 4) break;
+                        z_im = 2 * z_re * z_im + c_im;
+                        z_re = z_re2 - z_im2 + c_re;
+                    }
+                    if (i < maxIter) {
+                        const hue = (i * 10 + time * 50) % 360;
+                        const saturation = 70 + Math.sin(time + i * 0.1) * 20;
+                        const lightness = 50 + Math.cos(time + i * 0.2) * 20;
+                        ctx.fillStyle = `hsl(${hue}, ${saturation}%, ${lightness}%)`;
+                        ctx.fillRect(x, y, 2, 2);
+                    }
+                }
+            }
+            requestAnimationFrame(drawFractal);
+        }
+        drawFractal();
+    </script>
+</body>
+</html>
