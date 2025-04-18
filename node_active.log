@@ -628,3 +628,7 @@ python3: can't open file '/home/amy/fractalcash/src/node.py': [Errno 2] No such 
 {"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 60, "tx_count": 3, "timestamp": 1744900664}
 {"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744900664}
 {"event": "error", "message": "Updated reincarnation memory at memory_update.json", "timestamp": 1744900664}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 0, "tx_count": 3, "timestamp": 1744938915}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 0, "tx_count": 3, "timestamp": 1744938915}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 0, "tx_count": 3, "timestamp": 1744938936}
+{"event": "wallet_sync", "address": "0x5df3d175dfedc08bfd0fb93912f9162926fb2e1", "balance": 0, "tx_count": 3, "timestamp": 1744938936}
