@@ -1,1 +1,46 @@
-<html><body><h1>Blockchain Overview</h1><pre>{{ chain }}</pre></body></html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FractalCash Dashboard</title>
+    <style>
+        body { background: black; color: cyan; font-family: monospace; text-align: center; }
+        .fractal-art { white-space: pre; font-size: 8px; max-width: 800px; overflow-x: auto; margin: 20px auto; background: #111; padding: 10px; border-radius: 5px; }
+        .wallet-info { background: #222; padding: 10px; margin: 20px auto; width: 300px; border-radius: 5px; }
+        .mining-activity { margin-top: 20px; max-width: 600px; margin: 20px auto; }
+        h1 { color: magenta; }
+    </style>
+    <script>
+        let currentFrame = 0;
+        const frames = {{ fractal_art_frames|tojson }};
+        function animateFractal() {
+            const artElement = document.getElementById('fractal-art');
+            if (frames && frames.length > 0) {
+                artElement.innerText = frames[currentFrame];
+                currentFrame = (currentFrame + 1) % frames.length;
+            } else {
+                artElement.innerText = 'Loading fractal art...';
+            }
+        }
+        window.onload = function() {
+            animateFractal();
+            setInterval(animateFractal, 1000); // Switch frames every 1s
+        };
+    </script>
+</head>
+<body>
+    <h1>FractalCash Dashboard</h1>
+    <div class="fractal-art" id="fractal-art">{{ fractal_art_frames[0] | safe }}</div>
+    <div class="wallet-info">
+        <p>Wallet Address: {{ wallet_data.address }}</p>
+        <p>Balance: {{ wallet_data.balance }} FRAC</p>
+        <p>Transactions: {{ wallet_data.transactions }}</p>
+        <p>Node Status: {{ wallet_data.node_status }}</p>
+    </div>
+    <div class="mining-activity">
+        <h3>Mining Activity:</h3>
+        {% for activity in mining_activity %}
+            <p>{{ activity }}</p>
+        {% endfor %}
+    </div>
+</body>
+</html>
